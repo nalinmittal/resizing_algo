@@ -1,6 +1,6 @@
 # What is the code about?
 
-A course of mine required to code an algorithm to resize a floorplan without changing the room areas and adjacencies.
+A course of mine required to code an algorithm to resize a floorplan without changing the room areas and adjacencies. This algorithm does that in \theta(n).
 
 ## Dependencies
 Run on python 2. Depends on Tkinter and turtle 
