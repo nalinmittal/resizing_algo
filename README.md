@@ -6,7 +6,7 @@ A course of mine required to code an algorithm to resize a floorplan without cha
 Run on python 2. Depends on Tkinter and turtle 
 
 ## Demo
-
+https://youtu.be/SMI4EDrirKI
 Input
 ---
 Input is given in a very comprehensive way. Two examples are hardcoded in the script. Each example uses Block and Room data structure. Input needs to comprehensive because there is alot metadata which needs to stored such as adjacencies, height/width of room, parent rectangle, etc.
